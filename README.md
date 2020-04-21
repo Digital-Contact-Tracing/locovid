@@ -1,8 +1,13 @@
-# locovid (Digital Contact Tracing)
+# locovid
 User location application to track the spread of COVID-19.
-
-# Basic Information
 - [Contact Tracing Explained](https://en.wikipedia.org/wiki/Contact_tracing)
+
+# Digital-Contact-Tracing
+- [Project Website](https://digital-contact-tracing.github.io/)
+- [iOS Application](https://github.com/Digital-Contact-Tracing/ios)
+- [Web Development Project](https://github.com/Digital-Contact-Tracing/web)
+- [GitHub Organization](https://github.com/digital-contact-tracing/)
+- _Project Timeline: Coming soon!_
 
 # Apple & Google Collaborative Effort
 - [Apple Newsroom – Press Release (4/10/2020)](https://www.apple.com/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/)
